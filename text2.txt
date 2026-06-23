@@ -1,2 +1,2 @@
-this is text2.
-editing text from main branch
+
+I am practicing resolve merge conflict.
